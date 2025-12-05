@@ -1,4 +1,4 @@
-## Olá Sou a Samara!!�
+## Olá Sou a Samara!!
 - 🔭 Hoje eu trabalho com Suporte De TI
 - 🌱 Estudando Analise Desenvolvimento De Sistema
 - 📫contate-me no email: samaracustodio58@gmail.com

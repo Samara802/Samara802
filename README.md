@@ -13,7 +13,6 @@
 
 ## 👩🏻‍💻 Sobre mim
 
-- 💻 Desenvolvedora apaixonada por criar interfaces bonitas e código bem estruturado
 - 🌱 Sempre estudando e aprimorando minhas habilidades em novas tecnologias
 - ⚡ Trabalho com o ecossistema JavaScript/TypeScript, PHP e Python
 - 📫 Como me encontrar: [![Gmail](https://img.shields.io/badge/samaracustodio58%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samaracustodio58@gmail.com)
